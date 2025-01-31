@@ -1,6 +1,6 @@
 # Hi, I’m @Gideon Sunday
 ### I’m interested in Data Analytics
-### I’m currently learning courses;
+### I’m currently learning the following  courses;
 + Microsoft Excel
 + Tableau
 + PostgreSQL
